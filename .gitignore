@@ -1,5 +1,8 @@
 *
 !Scripts/
+!Scripts/**
 !Lang/
+!Lang/**
 !Data/
-!.gitignore
+!Data/**
+!README.md
